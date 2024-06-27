@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do Web Application</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="statistics">
+            <div class="details">
+                <h1>To-Do App</h1>
+                <p>Keep it up!</p>
+                <div id="progressBar">
+                    <div id="progress"></div>
+                </div>
+            </div>
+            <div class="numbers">
+                <p id="numbers">0 / 0</p>
+            </div>
+        </div>
+        <form>
+            <input id="taskInput" type="text" placeholder="Add a new task...">
+            <button id="newTask" type="submit">+</button>
+        </form>
+
+
+        <div class="filters">
+            <div class="filter" data-filter="completed">Complete</div>
+            <div class="filter" data-filter="pending">Incomplete</div>
+            <div class="delete-all">Delete All</div>
+        </div>
+
+
+        <div class="task-list-container">
+            <ul id="task-list"></ul>
+            <img class="empty-image" src="./check.png" height="300px" width="300px">
+        </div>
+    </div>
+
+
+    <script src="./app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js"></script>
+</body>
+</html>
