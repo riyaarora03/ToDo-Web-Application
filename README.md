@@ -12,6 +12,7 @@
 Welcome to the To-Do Web Application! This project is a simple yet effective task management tool built with HTML, CSS, and JavaScript.
 
 <img width="1438" alt="image" src="https://github.com/riyaarora03/CODTECH-task-1/blob/a7b262018864376ec2181f5ce8d97d0af967abf7/screenshot.png">
+Live Demo: https://to-do-web-application-eight.vercel.app/
 
 ### CRUD OPERATIONS:
     CREATE: Add new tasks effortlessly.
