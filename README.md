@@ -1,4 +1,14 @@
-# To-do-Web-Application
+**Name**: RIYA ARORA   
+**Company**: CODTECH IT SOLUTIONS   
+**ID**: CT12DS422     
+**Domain**: Web Development   
+**Duration**: June to July 2024    
+**Mentor**: Mohammed Muzammil Ahmed  
+
+
+# PROJECT OVERVIEW
+
+## To-do-Web-Application
 Welcome to the To-Do Web Application! This project is a simple yet effective task management tool built with HTML, CSS, and JavaScript.
 
 ### CRUD OPERATIONS:
@@ -12,7 +22,19 @@ Crud Operations: Add, show, edit, delete tasks effortlessly.
 Task Completion: Mark tasks as completed or pending.   
 Filtering: Filter tasks to view only completed or pending items.   
 Progress Tracking: A dynamic progress bar to monitor task completion.   
-Persistent Storage: Tasks are saved in local storage, ensuring they persist even after a browser refresh.   
+Persistent Storage: Tasks are saved in local storage, ensuring they persist even after a browser refresh.
+
+### TECHNOLOGIES USED
+#### Frontend
+**HTML5**: Provides the structure of the web application.   
+**CSS3**: Styles the application, making it visually appealing and user-friendly.   
+**JavaScript (ES6)**: Adds interactivity and dynamic functionality to the application.   
+
+#### Storage
+**Local Storage**: Stores tasks in the browser's local storage to ensure persistence across sessions.   
+
+#### Development Tools
+**Visual Studio Code**: A code editor used for development.   
 
 ## RUN LOCALLY
 Clone the project
