@@ -21,8 +21,8 @@ Live Demo: https://to-do-web-application-eight.vercel.app/
     DELETE: Remove individual tasks or delete all tasks at once. 
 
 ### KEY FEATURES
-Crud Operations: Add, show, edit, delete tasks effortlessly.
-Task Completion: Mark tasks as completed or pending.   
+Crud Operations: Add, show, edit, delete tasks effortlessly.   
+Task Completion: Mark tasks as completed or pending.      
 Filtering: Filter tasks to view only completed or pending items.   
 Progress Tracking: A dynamic progress bar to monitor task completion.   
 Persistent Storage: Tasks are saved in local storage, ensuring they persist even after a browser refresh.
