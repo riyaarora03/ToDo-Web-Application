@@ -49,7 +49,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd todo-web-application
+  cd CODTECH-task-1
 ```
 Open the index.html file in your preferred web browser.   
 That's it! The application should now be running locally on your machine.
