@@ -43,7 +43,7 @@ Persistent Storage: Tasks are saved in local storage, ensuring they persist even
 Clone the project
 
 ```bash
-  git clone https://github.com/yourusername/todo-web-application.git
+  git clone https://github.com/riyaarora03/todo-web-application.git
 ```
 
 Go to the project directory
