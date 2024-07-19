@@ -43,13 +43,13 @@ Persistent Storage: Tasks are saved in local storage, ensuring they persist even
 Clone the project
 
 ```bash
-  git clone https://github.com/riyaarora03/CODTECH-task-1.git
+  git clone https://github.com/riyaarora03/ToDo-Web-Application.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd CODTECH-task-1
+  cd ToDo-Web-Application
 ```
 Open the index.html file in your preferred web browser.   
 That's it! The application should now be running locally on your machine.
